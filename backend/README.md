@@ -1,7 +1,3 @@
-Here’s a suggested `README.md` for the **backend** directory of the **Port Emissions and Energy Management System** project. This document will provide instructions specifically for setting up and running the backend service.
-
----
-
 # Backend Service - Port Emissions and Energy Management System
 
 ## Overview
