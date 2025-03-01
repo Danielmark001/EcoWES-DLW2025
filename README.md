@@ -2,9 +2,6 @@
 
 
 # EcoPort 🍀
-<p align="center">
-  <img width="620" src="public/snippet.png" alt="Ecoport Logo">
-</p>
 
 ## About :blue_book:
 Ecoport is a synergistic eco-friendly transformation portal that leverages the power of data, AI, and IoT Systems.
