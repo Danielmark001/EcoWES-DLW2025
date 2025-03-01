@@ -11,12 +11,21 @@ A real-time monitoring and AI-driven solution designed to optimize energy consum
 emissions in port operations. By integrating IoT sensors, machine learning models, and an interactive dashboard, this system provides actionable insights into 
 energy usage and recommends strategies to reduce environmental impact while maintaining operational efficiency. <br>
 
-**2. Smart Energy Monitoring System ⚡** 
+**2. Fuel Monitoring System ⚡** 
 
-https://github.com/user-attachments/assets/ae9570d0-1fd6-4857-badc-3fda9845d8db
+https://github.com/user-attachments/assets/e6e72104-4ec7-429b-9e72-a59d608e3fa9
 
 A smart energy management system that uses AI to forecast energy consumption and optimize energy usage in real-time. It has three key features: temperature & humidity monitoring, fuel monitoring, and fleet tracking. 
 
+**3. Garbage Collection route optimization 🗑️** 
+
+https://github.com/user-attachments/assets/ed746b23-be48-4e90-a649-f9eec2e0993a
+
+Reinforcement Learning (Stable-Baselines3) dynamically adjusts garbage truck routes based on live traffic conditions, collection schedules, and fuel efficiency. Clustering models (scikit-learn) analyze historical patterns to refine routing strategies. The system tracks real-time vehicle locations and statuses on the dashboard, triggering alerts when deviations from expected routes occur.
+
+**4. Notification Center ⏰** 
+
+EcoWES ensures real-time alerts for operational issues by integrating Cloud Pub/Sub with Twilio, SendGrid, and Firebase Cloud Messaging. When AI models detect anomalies—such as fuel leaks, inefficient routes, or energy spikes—automated notifications are sent via SMS, email, or app push notifications. Operators can customize alerts through the React-based dashboard, ensuring proactive responses and minimal downtime.
 
 ## Installation
 
