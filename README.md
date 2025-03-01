@@ -35,8 +35,8 @@ A smart energy management system that uses AI to forecast energy consumption and
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Irisss142/Binjai-Kingdom.git
-cd Binjai-Kingdom
+git clone https://github.com/Danielmark001/deep_learning_hackathon
+cd deep-learning-hackathon
 ```
 
 ### Environment Variables
