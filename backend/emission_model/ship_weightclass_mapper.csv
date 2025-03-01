@@ -1,0 +1,73 @@
+name,weighttype,weightclass_lb,weightclass_ub,year_lb,year_ub,class,rpm
+Tanker Handy Size Tier I,DWT,0,34999,-inf,2010,4,160
+Tanker Handy Size Tier II,DWT,0,34999,2011,2020,4,160
+Tanker Handy Size FS,DWT,0,34999,2021,2050,4,160
+Tanker Handy Max Tier I,DWT,35000,44999,-inf,2010,4,120
+Tanker Handy Max Tier II,DWT,35000,44999,2011,2021,4,120
+Tanker Handy Max FS,DWT,35000,44999,2021,2050,4,120
+Tanker PanMax Tier I,DWT,45000,119999,-inf,2010,4,90
+Tanker PanMax Tier II,DWT,45000,119999,2011,2020,4,90
+Tanker PanMax FS,DWT,45000,119999,2021,2050,4,90
+Tanker SuezMax Tier I,DWT,120000,+inf,-inf,2010,4,80
+Tanker SuezMax Tier II,DWT,120000,+inf,2011,2020,4,80
+Tanker SuezMax FS,DWT,120000,+inf,2021,2050,4,80
+Ro-Ro bis 25000 GT Tier I,GT,0,24999,-inf,2010,9,500
+Ro-Ro bis 25000 GT Tier II,GT,0,24999,2011,2020,9,500
+Ro-Ro bis 25000 GT FS,GT,0,24999,2021,2050,9,500
+Ro-Ro groesser 25000 GT Tier I,GT,25000,+inf,-inf,2010,9,500
+Ro-Ro groesser 25000 GT Tier II,GT,25000,+inf,2011,2020,9,500
+Ro-Ro groesser 25000 GT FS,GT,25000,+inf,2021,2050,9,500
+Ro-Pax bis 25000 GT Tier I,GT,0,24999,-inf,2010,2,500
+Ro-Pax bis 25000 GT Tier II,GT,0,24999,2011,2020,2,500
+Ro-Pax bis 25000 GT FS,GT,0,24999,2021,2050,2,500
+Ro-Pax groesser 25000 GT Tier I,GT,25000,+inf,-inf,2010,2,500
+Ro-Pax groesser 25000 GT Tier II,GT,25000,+inf,2011,2020,2,500
+Ro-Pax groesser 25000 GT FS,GT,25000,+inf,2021,2050,2,500
+MPV bis 12000 t dwt Tier I,DWT,0,11999,-inf,2010,7,160
+MPV bis 12000 t dwt Tier II,DWT,0,11999,2011,2020,7,160
+MPV bis 12000 t dwt FS,DWT,0,11999,2021,2050,7,160
+MPV 12000-20000 t dwt Tier I,DWT,12000,+inf,-inf,2010,7,120
+MPV 12000-20000 t dwt Tier II,DWT,12000,+inf,2011,2020,7,120
+MPV 12000-20000 t dwt FS,DWT,12000,+inf,2021,2050,7,120
+Diverse bis 2000 GT Tier I,GT,0,1999,-inf,2010,8,750
+Diverse bis 2000 GT Tier II,GT,0,1999,2011,2020,8,750
+Diverse bis 2000 GT FS,GT,0,1999,2021,2050,8,750
+Diverse groesser 2000 GT Tier I,GT,2000,+inf,-inf,2010,8,750
+Diverse groesser 2000 GT Tier II,GT,2000,+inf,2011,2020,8,750
+Diverse groesser 2000 GT FS,GT,2000,+inf,2021,2050,8,750
+Cruise bis 25000 GT Tier I,GT,0,24999,-inf,2010,3,500
+Cruise bis 25000 GT Tier II,GT,0,24999,2011,2020,3,500
+Cruise bis 25000 GT FS,GT,0,24999,2021,2050,3,500
+Cruise groesser 25000 GT Tier I,GT,25000,+inf,-inf,2010,3,500
+Cruise groesser 25000 GT Tier II,GT,25000,+inf,2011,2020,3,500
+Cruise groesser 25000 GT FS,GT,25000,+inf,2021,2050,3,500
+Container bis 17500 GT Tier I,GT,0,17499,-inf,2010,5,120
+Container bis 17500 GT Tier II,GT,0,17499,2011,2020,5,120
+Container bis 17500 GT FS,GT,0,17499,2021,2050,5,120
+Container 17500-55000 GT Tier I,GT,17500,54999,-inf,2010,5,120
+Container 17500-55000 GT Tier II,GT,17500,54999,2011,2020,5,120
+Container 17500 - 55000 GT FS,GT,17500,54999,2021,2050,5,120
+Container 55000-145000 GT Tier I,GT,55000,144999,-inf,2010,5,90
+Container 55000-145000 GT Tier II,GT,55000,144999,2011,2020,5,90
+Container 55000-145000 GT FS,GT,55000,144999,2021,2050,5,90
+Container groesser 145000 GT Tier I,GT,145000,+inf,-inf,2010,5,80
+Container groesser 145000 GT Tier II,GT,145000,+inf,2011,2020,5,80
+Container groesser 145000 GT FS,GT,145000,+inf,2021,2050,5,80
+Car Carrier bis 40000 GT Tier I,GT,0,39999,-inf,2010,1,120
+Car Carrier bis 40000 GT Tier II,GT,0,39999,2011,2020,1,120
+Car Carrier bis 40000 GT FS,GT,0,39999,2021,2050,1,120
+Car Carrier groesser 40000 GT Tier I,GT,40000,+inf,-inf,2010,1,120
+Car Carrier groesser 40000 GT Tier II,GT,40000,+inf,2011,2020,1,120
+Car Carrier groesser 40000 GT FS,GT,40000,+inf,2021,2050,1,120
+Bulker Handy Size Tier I,DWT,0,34999,-inf,2010,6,160
+Bulker Handy Size Tier II,DWT,0,34999,2011,2020,6,160
+Bulker Handy Size FS,DWT,0,34999,2021,2050,6,160
+Bulker Handy Max Tier I,DWT,35000,49999,-inf,2010,6,120
+Bulker Handy Max Tier II,DWT,35000,49999,2011,2020,6,120
+Bulker Handy Max FS,DWT,35000,49999,2021,2050,6,120
+Bulker PanMax Tier I,DWT,50000,119999,-inf,2010,6,90
+Bulker PanMax Tier II,DWT,50000,119999,2011,2020,6,90
+Bulker PanMax FS,DWT,50000,119999,2021,2050,6,90
+Bulker SuezMax Tier I,DWT,120000,+inf,-inf,2010,6,80
+Bulker SuezMax Tier II,DWT,120000,+inf,2011,2020,6,80
+Bulker SuezMax FS,DWT,120000,+inf,2021,2050,6,80

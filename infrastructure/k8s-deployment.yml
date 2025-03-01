@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: port-energy-management
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: port-energy-management
+  template:
+    metadata:
+      labels:
+        app: port-energy-management
+    spec:
+      containers:
+        - name: backend
+          image: backend-image
+          ports:
+            - containerPort: 5000
+        - name: frontend
+          image: frontend-image
+          ports:
+            - containerPort: 3000
+        - name: db
+          image: postgres
+          env:
+            - name: POSTGRES_USER
+              value: "user"
+            - name: POSTGRES_PASSWORD
+              value: "password"
+            - name: POSTGRES_DB
+              value: "port_energy"

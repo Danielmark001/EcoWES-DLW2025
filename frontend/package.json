@@ -1,0 +1,22 @@
+{
+    "name": "binjai-kingdom-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for the Binjai Kingdom project",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "keywords": [],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "@rollup/plugin-terser": "^0.4.4",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0",
+        "react-scripts": "^3.0.1"
+    },
+    "homepage": "."
+}
