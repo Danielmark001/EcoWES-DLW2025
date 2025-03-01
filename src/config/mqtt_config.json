@@ -1,0 +1,6 @@
+{
+  "brokerUrl": "your.mqtt.broker.url",
+  "port": 1883,
+  "username": "your_mqtt_username",
+  "password": "your_mqtt_password"
+}

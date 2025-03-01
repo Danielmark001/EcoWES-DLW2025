@@ -7,7 +7,7 @@
 </p>
 
 ## About :blue_book:
-Ecoport is a synergistic eco-friendly transformation portal that leverages the power of data, AI, and IoT Systems.
+EcoWES is a synergistic eco-friendly transformation portal that leverages the power of data, AI, and IoT Systems.
 
 **1. Ecofleet Dashboard :bulb:** 
 
