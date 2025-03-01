@@ -1,14 +1,11 @@
-
-
-
 # EcoWES 🍀
 
 ## About :blue_book:
 EcoWES is a synergistic eco-friendly transformation portal that leverages the power of data, AI, and IoT Systems.
 
-**1. Ecofleet Dashboard :bulb:** 
+**1. Smart Energy Monitoring Dashboard :bulb:** 
 
-https://github.com/user-attachments/assets/a7a6e5a0-606a-4aa0-9d74-6a8bbb012387
+https://github.com/user-attachments/assets/454d5d11-f66e-4c55-aa92-b89fa1b67d78
 
 A real-time monitoring and AI-driven solution designed to optimize energy consumption and reduce carbon 
 emissions in port operations. By integrating IoT sensors, machine learning models, and an interactive dashboard, this system provides actionable insights into 
