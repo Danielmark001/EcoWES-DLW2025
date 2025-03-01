@@ -25,6 +25,8 @@ Reinforcement Learning (Stable-Baselines3) dynamically adjusts garbage truck rou
 
 **4. Notification Center ⏰** 
 
+https://github.com/user-attachments/assets/77c2a013-48c7-4a1e-8f15-37e20a7f6d99
+
 EcoWES ensures real-time alerts for operational issues by integrating Cloud Pub/Sub with Twilio, SendGrid, and Firebase Cloud Messaging. When AI models detect anomalies—such as fuel leaks, inefficient routes, or energy spikes—automated notifications are sent via SMS, email, or app push notifications. Operators can customize alerts through the React-based dashboard, ensuring proactive responses and minimal downtime.
 
 ## Installation
@@ -41,8 +43,8 @@ EcoWES ensures real-time alerts for operational issues by integrating Cloud Pub/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Danielmark001/deep_learning_hackathon
-cd deep-learning-hackathon
+git clone https://github.com/Danielmark001/deep_learning_week_hackathon
+cd deep_learning_week_hackathon
 ```
 
 ### Environment Variables
