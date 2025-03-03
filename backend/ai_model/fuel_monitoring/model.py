@@ -26,7 +26,6 @@ class CNNAutoencoder(nn.Module):
             nn.ConvTranspose1d(in_channels=8, out_channels=16, kernel_size=3, stride=2, padding=1, output_padding=1),
             nn.ReLU(),
             nn.ConvTranspose1d(in_channels=16, out_channels=1, kernel_size=3, stride=2, padding=1, output_padding=1),
-            nn.Sigmoid()  # Ensures output is between 0 and 1
         )
         
     def forward(self, x):
