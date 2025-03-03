@@ -22,7 +22,8 @@ def detect_anomaly(data, model):
 
 def main():
     file_path = os.path.join(os.path.dirname(__file__), "..", "saved_models", "fuel_monitoring_model.pkl")
-    model = torch.load(file_path)
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model = torch.load(file_path, map_location=device, pickle_module=pickle)
     # Load the data
     data = np.load("data.npy")
     # Detect anomalies
