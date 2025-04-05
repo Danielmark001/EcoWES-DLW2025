@@ -43,8 +43,8 @@ EcoWES ensures real-time alerts for operational issues by integrating Cloud Pub/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Danielmark001/EcoWES-DLW2025
-cd EcoWES-DLW2025
+git clone https://github.com/Danielmark001/EcoWES-DLW-Hackathon-2025
+cd EcoWES-DLW-Hackathon-2025
 ```
 
 ### Environment Variables
